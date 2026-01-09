@@ -1,7 +1,7 @@
 # Data Analyst
 
-###Education
+### Education
 PGDM
 
-###Projects
+### Projects
 **Marketing**
