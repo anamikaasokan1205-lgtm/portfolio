@@ -2,9 +2,9 @@
 
 **Stress Detection Machine Learning Project**
 
--Processed 8,000+ text records using NLP techniques (tokenization, lemmatization, and TF-IDF vectorization).
--Compared multiple machine learning models, achieving 83% accuracy
--Tools used: Python
+- Processed 8,000+ text records using NLP techniques (tokenization, lemmatization, and TF-IDF vectorization).
+- Compared multiple machine learning models, achieving 83% accuracy
+- Tools used: Python
 [Project](https://github.com/anamikaasokan1205-lgtm/Stress-Detection-Machine-Learning.git)
 
 **Marketing Campaign Performance Analysis**                                                                                            
